@@ -1,0 +1,14 @@
+pip install pillow pytesseract      # eventaully not used
+
+import pyautogui
+
+while True:
+    print(pyautogui.position())
+    # 1106,1050 then 1165, 945 icon
+    # 697,272 to 1850,890
+    # 1850,890 click
+
+    # new coordinates
+    # 1106,1050 then 1165, 945 icon
+    # 697,272 to 1386,895
+    # 1850,812 click
