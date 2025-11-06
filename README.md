@@ -1,6 +1,6 @@
-# AI Reply Bot (Gemini-Powered Automation)
+# AI Reply Bot
 
-This Python-based automation tool integrates Google Gemini AI with PyAutoGUI to automatically read, process, and respond to on-screen text. It simulates human-like desktop interactions — selecting text, generating a contextual AI reply, and sending it back — creating a fully automated smart reply system.
+This Python-based automation tool integrates Google Gemini AI with PyAutoGUI to automatically read, process, and respond to on-screen text. It simulates human-like desktop interactions: selecting text, generating a contextual AI reply, and sending it back, creating a fully automated smart reply system.
 
 ## Overview
 
